@@ -4,3 +4,4 @@ int sqr = number * number;
 Console.Write("Квадрат числа равен: ");
 System.Console.WriteLine(sqr);
 
+
